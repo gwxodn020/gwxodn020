@@ -1,4 +1,17 @@
 # Hello, I am app developer Kwon Tae-woo 👋  
 
+## main
+---
+![My Skills](https://skillicons.dev/icons?i=react,vite,ts,js,nodejs,firebase)
 
-![My Skills](https://skillicons.dev/icons?i=react,vite,ts,js,swift,nodejs,express,prisma,mysql,firebase,git,github,figma,vscode,fastapi)
+
+## sub
+![My Skills](https://skillicons.dev/icons?i=express,prisma,mysql,firebase,fastapi)
+
+
+## tool
+---
+![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)
+
+
+
