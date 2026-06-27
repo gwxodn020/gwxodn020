@@ -5,7 +5,7 @@
 
 
 ### sub
-#### ![My Skills](https://skillicons.dev/icons?i=express,prisma,mysql,firebase,fastapi)
+#### ![My Skills](https://skillicons.dev/icons?i=express,prisma,mysql,fastapi)
 
 
 ### tool
