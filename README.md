@@ -4,7 +4,7 @@
 #### ![My Skills](https://skillicons.dev/icons?i=react,vite,ts,js,nodejs,firebase)
 
 
-### sub
+### server
 #### ![My Skills](https://skillicons.dev/icons?i=express,prisma,mysql,fastapi)
 
 
